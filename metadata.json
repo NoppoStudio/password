@@ -1,0 +1,6 @@
+{
+  "name": "NoppoPassword",
+  "description": "AES-256暗号化、NoppoAuthシングルサインオン、二要素認証(MFA)、生体認証、セキュリティ監査、緊急データワイプを搭載した最強のオフライン＆クラウドライク・パスワード管理アプリ。",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
